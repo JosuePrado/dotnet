@@ -1,0 +1,3 @@
+interface IFacP : IProgression<Factorial> {
+
+}
