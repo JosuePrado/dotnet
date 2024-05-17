@@ -5,6 +5,7 @@ public class Fibonacci : IPivot
 
     public Fibonacci() 
     {   
+        previous = 0;
         limit = 0;
         Current = 0;
     }
@@ -12,6 +13,7 @@ public class Fibonacci : IPivot
     public int limit { get; set; }
 
     public int Current {get; set;}
+    public int previous { get; set; }
 
     object IEnumerator.Current => Current;
 
@@ -22,6 +24,9 @@ public class Fibonacci : IPivot
 
     public bool MoveNext()
     {
+        if (Current < limit) {
+
+        }
         return true;
     }
 
