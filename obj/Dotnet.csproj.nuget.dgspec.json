@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/fundacion/Documents/Development Software/Dotnet/Dotnet.csproj": {}
+    "C:\\Users\\prado\\OneDrive\\Documentos\\projects\\dotnet\\Dotnet.csproj": {}
   },
   "projects": {
-    "/home/fundacion/Documents/Development Software/Dotnet/Dotnet.csproj": {
+    "C:\\Users\\prado\\OneDrive\\Documentos\\projects\\dotnet\\Dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fundacion/Documents/Development Software/Dotnet/Dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\prado\\OneDrive\\Documentos\\projects\\dotnet\\Dotnet.csproj",
         "projectName": "Dotnet",
-        "projectPath": "/home/fundacion/Documents/Development Software/Dotnet/Dotnet.csproj",
-        "packagesPath": "/home/fundacion/.nuget/packages/",
-        "outputPath": "/home/fundacion/Documents/Development Software/Dotnet/obj/",
+        "projectPath": "C:\\Users\\prado\\OneDrive\\Documentos\\projects\\dotnet\\Dotnet.csproj",
+        "packagesPath": "C:\\Users\\prado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prado\\OneDrive\\Documentos\\projects\\dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/fundacion/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\prado\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

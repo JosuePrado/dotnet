@@ -5,15 +5,17 @@ using System.Runtime.InteropServices;
 namespace FirstClass
 {
  public class Mains {
-        static void Main(string[] args)
+        static void Executes ()
         {
-           using var Handle = new FileHandler("a.txt"); 
-            {
-                var lines = Handle.ReadLines();
-                foreach (var line in lines) {
-                    Console.WriteLine(line);
-                }
+           Console.WriteLine("entrado en mains");
+            var progression = new FibP(10);
+            var list = progression;
+            foreach (var current in progression) 
+            {   
+                Console.WriteLine(current);
             }
+
+            Console.WriteLine("saliendo de mains");
         }
     }   
 }

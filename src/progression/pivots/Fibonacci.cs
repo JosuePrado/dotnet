@@ -6,8 +6,7 @@ public class Fibonacci : IPivot
     public Fibonacci() 
     {   
         previous = 0;
-        limit = 0;
-        Current = 0;
+        Current = 1;
     }
 
     public int limit { get; set; }
@@ -25,9 +24,14 @@ public class Fibonacci : IPivot
     public bool MoveNext()
     {
         if (Current < limit) {
-
+            int aux = previous; 
+            previous = Current;
+            Current = aux + previous;
+            return true;
+        } else {
+            return false;
         }
-        return true;
+        
     }
 
     public void Reset()

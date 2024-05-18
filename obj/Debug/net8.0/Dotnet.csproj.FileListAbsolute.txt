@@ -1,0 +1,15 @@
+c:\Users\prado\OneDrive\Documentos\projects\dotnet\bin\Debug\net8.0\Dotnet.exe
+C:\Users\prado\OneDrive\Documentos\projects\dotnet\bin\Debug\net8.0\Dotnet.deps.json
+C:\Users\prado\OneDrive\Documentos\projects\dotnet\bin\Debug\net8.0\Dotnet.runtimeconfig.json
+c:\Users\prado\OneDrive\Documentos\projects\dotnet\bin\Debug\net8.0\Dotnet.dll
+c:\Users\prado\OneDrive\Documentos\projects\dotnet\bin\Debug\net8.0\Dotnet.pdb
+c:\Users\prado\OneDrive\Documentos\projects\dotnet\obj\Debug\net8.0\Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\prado\OneDrive\Documentos\projects\dotnet\obj\Debug\net8.0\Dotnet.AssemblyInfoInputs.cache
+c:\Users\prado\OneDrive\Documentos\projects\dotnet\obj\Debug\net8.0\Dotnet.AssemblyInfo.cs
+c:\Users\prado\OneDrive\Documentos\projects\dotnet\obj\Debug\net8.0\Dotnet.csproj.CoreCompileInputs.cache
+c:\Users\prado\OneDrive\Documentos\projects\dotnet\obj\Debug\net8.0\Dotnet.sourcelink.json
+c:\Users\prado\OneDrive\Documentos\projects\dotnet\obj\Debug\net8.0\Dotnet.dll
+c:\Users\prado\OneDrive\Documentos\projects\dotnet\obj\Debug\net8.0\refint\Dotnet.dll
+c:\Users\prado\OneDrive\Documentos\projects\dotnet\obj\Debug\net8.0\Dotnet.pdb
+C:\Users\prado\OneDrive\Documentos\projects\dotnet\obj\Debug\net8.0\Dotnet.genruntimeconfig.cache
+C:\Users\prado\OneDrive\Documentos\projects\dotnet\obj\Debug\net8.0\ref\Dotnet.dll
